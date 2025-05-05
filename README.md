@@ -5,13 +5,14 @@
 
 ------
 <div align="center">
-<blockquote background="blue">
-  The Web as I envisaged it, we have not seen it yet. <br />
+<blockquote>
+  ![Static Badge](https://img.shields.io/badge/The_Web_as_I_envisaged_it,_we_have_not_seen_it_yet-blue.)<br />
+  
   The future is still so much bigger than the past. <br />
   - Tim Berners-Lee
 </blockquote>
 </div>
-![Static Badge](https://img.shields.io/badge/:badgeContent)
+
 
 
 <!--
