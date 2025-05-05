@@ -54,7 +54,7 @@ will be deployed by June 15, 2025
 ---------
 
 ### Support Me
-[![Buy me a coffee](https://www.dropbox.com/scl/fo/sn103qa0af6ouffjn9xc7/AHhWrm3dpC1rNSzlapqjbOE?e=1&preview=bmc-button.png&rlkey=36018g7kb0fi6jg7xuxtux3ke&st=m2xnizr4&dl=0)](https://buymeacoffee.com/bravejudith)
+[![Buy me a coffee](https://github.com/Ukasquared/Ukasquared/blob/main/bmc-button.png](https://buymeacoffee.com/bravejudith)
 <!--
 **Ukasquared/Ukasquared** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
