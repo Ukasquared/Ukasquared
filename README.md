@@ -14,7 +14,8 @@
 
 ------
 <div align="center">
-  <p> 🔭 I am currently working on <a href="https://github.com/Ukasquared/EasyRecord---v1" target="_blank" rel="noopener noreferrer"> School Management System</a>
+  <p> 🔭 I am currently working on <a href="https://github.com/Ukasquared/EasyRecord---v1" target="_blank" rel="noopener noreferrer"> School Management System</a>, and other private projects
+  <p> 🌱 I’m currently learning CONTAINERIZATION|CICD WITH GITHUB ACTIONS</p>
 </div>
 
 <!--
