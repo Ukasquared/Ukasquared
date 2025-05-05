@@ -8,8 +8,8 @@
 <blockquote>
   <p> <img src="https://img.shields.io/badge/The_Web_as_I_envisaged_it%2C_we_have_not_seen_it_yet-blue" alt="Static Badge" /> <br/>
   <img src="https://img.shields.io/badge/The_future_is_still_so_much_bigger_than_the_past-blue"/></p><br />
-  - Tim Berners-Lee
 </blockquote>
+ <p>- Tim Berners-Lee</p>
 </div>
 
 
