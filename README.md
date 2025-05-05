@@ -22,9 +22,9 @@
 ------
 
 ### Connect with me:
-[![GitHub](https://img.icons8.com/?size=100&id=3tC9EQumUAuq&format=png&color=000000)](https://github.com/Ukasquared)
+[![GitHub](https://img.icons8.com/?size=100&id=BfmLaUCOh7CM&format=png&color=000000)](https://github.com/Ukasquared)
 [![LinkedIn](https://img.icons8.com/?size=100&id=118979&format=png&color=000000)](https://linkedin.com/in/judith-ukachukwu)
-[![Twitter](https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png&color=000000)](https://twitter.com/judithukachukwu)
+[![Twitter](https://img.icons8.com/?size=100&id=bG29Ckcdp6YP&format=png&color=000000)](https://twitter.com/judithukachukwu)
 
 
 
