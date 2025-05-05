@@ -6,7 +6,7 @@
 ------
 <div align="center">
 <blockquote>
-  ![Static Badge](https://img.shields.io/badge/The_Web_as_I_envisaged_it%2C_we_have_not_seen_it_yet-blue)
+  <p> <img src="https://img.shields.io/badge/The_Web_as_I_envisaged_it%2C_we_have_not_seen_it_yet-blue" alt="Static Badge" /> </p> 
   The future is still so much bigger than the past. <br />
   - Tim Berners-Lee
 </blockquote>
