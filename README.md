@@ -50,6 +50,11 @@ will be deployed by June 15, 2025
 -------
 ### My Activities
 [![Ukasquared's GitHub stats](https://github-readme-stats.vercel.app/api?username=ukasquared&hide=contribs&show_icons=true&theme=radical)](https://github.com/ukasquared/github-readme-stats)]
+
+---------
+
+### Support Me
+[![Buy me a coffee](https://www.dropbox.com/scl/fo/sn103qa0af6ouffjn9xc7/AHhWrm3dpC1rNSzlapqjbOE?e=1&preview=bmc-button.png&rlkey=36018g7kb0fi6jg7xuxtux3ke&st=m2xnizr4&dl=0)](https://buymeacoffee.com/bravejudith)
 <!--
 **Ukasquared/Ukasquared** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
