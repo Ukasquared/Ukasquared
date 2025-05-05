@@ -35,8 +35,17 @@ will be deployed by June 15, 2025
 
 ### Languages and tools:
 ![Python](https://img.icons8.com/?size=100&id=Rc0Xn5AtE8kX&format=png&color=000000)
-
-
+![Nodejs](https://img.icons8.com/?size=100&id=54087&format=png&color=000000)
+![MySql](https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000)
+![Javascript](https://img.icons8.com/?size=100&id=108784&format=png&color=000000)
+![Postgresql](https://img.icons8.com/?size=100&id=38561&format=png&color=000000)
+![Mongodb](https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png&color=000000)
+![flask](https://img.icons8.com/?size=100&id=MHcMYTljfKOr&format=png&color=000000)
+![nestjs](https://img.icons8.com/?size=100&id=9ESZMOeUioJS&format=png&color=000000)
+![React](https://img.icons8.com/?size=100&id=NfbyHexzVEDk&format=png&color=000000)
+![tailwind css](https://img.icons8.com/?size=100&id=UpSCHTwpywad&format=png&color=000000)
+![HTML](https://img.icons8.com/?size=100&id=20909&format=png&color=000000)
+![CSS](https://img.icons8.com/?size=100&id=21278&format=png&color=000000)
 
 
 
