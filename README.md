@@ -5,8 +5,10 @@
 
 ------
 <div align="center">
-<blockquote>
-  The Web as I envisaged it, we have not seen it yet. The future is still so much bigger than the past. - Tim Berners-Lee
+<blockquote background="blue">
+  The Web as I envisaged it, we have not seen it yet. <br />
+  The future is still so much bigger than the past. <br />
+  - Tim Berners-Lee
 </blockquote>
 </div>
 
