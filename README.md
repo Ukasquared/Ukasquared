@@ -47,8 +47,9 @@ will be deployed by June 15, 2025
 ![HTML](https://img.icons8.com/?size=100&id=20909&format=png&color=000000)
 ![CSS](https://img.icons8.com/?size=100&id=21278&format=png&color=000000)
 
-
-
+-------
+### My Activities
+[![Ukasquared's GitHub stats](https://github-readme-stats.vercel.app/api?username=ukasquared)](https://github.com/ukasquared/github-readme-stats)]
 <!--
 **Ukasquared/Ukasquared** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
