@@ -55,8 +55,11 @@ will be deployed by June 15, 2025
 
 ### Support Me
 <div>
-  <p> <a alt="Buy me a coffee" href="https://buymeacoffee.com/bravejudith"> <img width="50px" src="https://github.com/Ukasquared/Ukasquared/blob/main/bmc-button.png" /></a </p>
+  <p> <a alt="Buy me a coffee" href="https://buymeacoffee.com/bravejudith"> <img width="200px" src="https://github.com/Ukasquared/Ukasquared/blob/main/bmc-button.png" /></a </p>
 </div>
+
+
+
 <!--
 **Ukasquared/Ukasquared** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
