@@ -4,7 +4,11 @@
 </div>
 
 ------
-
+<div align="center">
+<blockquote>
+  The Web as I envisaged it, we have not seen it yet. The future is still so much bigger than the past. - Tim Berners-Lee
+</blockquote>
+</div>
 
 
 <!--
