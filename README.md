@@ -1,6 +1,4 @@
-## <div style="text-align: center;">
-Judith Ukachukwu
-</div>
+# <div style="text-align: center;"> Judith Ukachukwu </div>
 ___
 
 <!--
