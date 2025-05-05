@@ -1,5 +1,7 @@
-## <div style="text-align: center;"> Judith Ukachukwu </div>
----
+## <div style="text-align: center;">
+Judith Ukachukwu
+</div>
+___
 
 <!--
 **Ukasquared/Ukasquared** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
