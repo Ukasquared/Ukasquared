@@ -19,6 +19,18 @@
   <p>📫 How to reach me: <a href="mailto:ukachukwujudith95@gmail.com">send a message</a> </p>
 </div>
 
+------
+
+### Connect with me:
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/Ukasquared)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/judith-ukachukwu)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/judithukachukwu)
+
+
+
+
+
+
 <!--
 **Ukasquared/Ukasquared** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
