@@ -26,6 +26,15 @@
 [![LinkedIn](https://img.icons8.com/?size=100&id=118979&format=png&color=000000)](https://linkedin.com/in/judith-ukachukwu)
 [![Twitter](https://img.icons8.com/?size=100&id=bG29Ckcdp6YP&format=png&color=000000)](https://twitter.com/judithukachukwu)
 
+--------
+
+### Live Projects
+will be deployed by June 15, 2025
+
+------
+
+### Languages and tools:
+[Python](https://img.icons8.com/?size=100&id=Rc0Xn5AtE8kX&format=png&color=000000)
 
 
 
