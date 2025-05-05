@@ -12,7 +12,10 @@
  <p>- Tim Berners-Lee</p>
 </div>
 
-
+------
+<div align="center">
+  <p> 🔭 I am currently working on <a href="https://github.com/Ukasquared/EasyRecord---v1" target="_blank" rel="noopener noreferrer"> School Management System</a>
+</div>
 
 <!--
 **Ukasquared/Ukasquared** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
