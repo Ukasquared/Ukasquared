@@ -1,5 +1,5 @@
 <h1 align="center">Judith Ukachukwu</h1>
----
+I am a Software Engineer, specializing on the Backend,and passionate about building scalable web applications
 
 <!--
 **Ukasquared/Ukasquared** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
