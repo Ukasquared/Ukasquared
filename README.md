@@ -6,10 +6,9 @@
 ------
 <div align="center">
 <blockquote>
-  <p> <img src="https://img.shields.io/badge/The_Web_as_I_envisaged_it%2C_we_have_not_seen_it_yet-blue" alt="Static Badge" /> <br/>
-  <img src="https://img.shields.io/badge/The_future_is_still_so_much_bigger_than_the_past-blue"/></p>
+  The Web as I envisaged it%2C we have not seen it yet, <br/> The future is still so much bigger than the past<br />
+  Tim Berners-Lee
 </blockquote>
- <p>- Tim Berners-Lee</p>
 </div>
 
 ------
@@ -22,9 +21,9 @@
 ------
 
 ### Connect with me:
-[![GitHub](https://img.icons8.com/?size=100&id=SzgQDfObXUbA&format=png&color=000000)](https://github.com/Ukasquared)
-[![LinkedIn](https://img.icons8.com/?size=100&id=118979&format=png&color=000000)](https://linkedin.com/in/judith-ukachukwu)
-[![Twitter](https://img.icons8.com/?size=100&id=bG29Ckcdp6YP&format=png&color=000000)](https://twitter.com/judithukachukwu)
+[![GitHub](https://img.icons8.com/?size=100&id=12599&format=png&color=000000)](https://github.com/Ukasquared)
+[![LinkedIn](https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000)](https://linkedin.com/in/judith-ukachukwu)
+[![Twitter](https://img.icons8.com/?size=100&id=ClbD5JTFM7FA&format=png&color=000000)](https://twitter.com/judithukachukwu)
 
 --------
 
