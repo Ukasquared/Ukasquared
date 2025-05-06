@@ -22,7 +22,7 @@
 
 ### Connect with me:
 <a href="https://linkedin.com/in/judith-ukachukwu"><img src="https://img.icons8.com/?size=100&id=tvG-nQ3s2hZL&format=png&color=000000" alt="LinkedIn" width="50px" /></a>
-<a href="https://twitter.com/judithukachukwu"><img src="https://img.icons8.com/?size=100&id=bG29Ckcdp6YP&format=png&color=000000" alt="Twitter" width="50px" /></a>
+<a href="https://twitter.com/judithukachukwu"><img src="https://img.icons8.com/?size=100&id=bG29Ckcdp6YP&format=png&color=000000" alt="Twitter" width="70px" /></a>
 
 --------
 
@@ -32,22 +32,19 @@ will be deployed by June 15, 2025
 ------
 
 ### Languages and tools:
-<a href=""><img src="" width="200px" att="" /></a>
-![Python](https://img.icons8.com/?size=100&id=Rc0Xn5AtE8kX&format=png&color=000000)
-![Nodejs](https://img.icons8.com/?size=100&id=54087&format=png&color=000000)
-![MySql](https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000)
-![Javascript](https://img.icons8.com/?size=100&id=108784&format=png&color=000000)
-![Postgresql](https://img.icons8.com/?size=100&id=38561&format=png&color=000000)
-![Mongodb](https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png&color=000000)
-![flask](https://img.icons8.com/?size=100&id=hCWb1IvpcBZ0&format=png&color=000000)
-![nestjs](https://img.icons8.com/?size=100&id=9ESZMOeUioJS&format=png&color=000000)
-![React](https://img.icons8.com/?size=100&id=NfbyHexzVEDk&format=png&color=000000)
-![tailwind css](https://img.icons8.com/?size=100&id=UpSCHTwpywad&format=png&color=000000)
-![HTML](https://img.icons8.com/?size=100&id=20909&format=png&color=000000)
-![CSS](https://img.icons8.com/?size=100&id=21278&format=png&color=000000)
-<img src="" width="200px" />
-<img src="" width="200px" />
-<img src="" width="200px" />
+<img src="https://img.icons8.com/?size=100&id=Rc0Xn5AtE8kX&format=png&color=000000" width="50px" alt="Python" />
+<img src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" width="50px" alt="Nodejs" />
+<img src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000" width="50px" alt="Mysql" />
+<img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000)" width="50px" alt="Javascript" />
+<img src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" width="50px" alt="Postgresql" />
+<img src="https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png&color=000000" width="50px" alt="Mongodb" />
+<img src="https://img.icons8.com/?size=100&id=hCWb1IvpcBZ0&format=png&color=000000" width="50px" alt="Flask" />
+<img src="https://img.icons8.com/?size=100&id=9ESZMOeUioJS&format=png&color=000000" width="50px" alt="Nestjs" />
+<img src="https://img.icons8.com/?size=100&id=NfbyHexzVEDk&format=png&color=000000" width="50px" alt="React" />
+<img src="https://img.icons8.com/?size=100&id=UpSCHTwpywad&format=png&color=000000" width="50px" alt="Tailwind CSS" />
+<img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" width="50px" alt="HTML" />
+<img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" width="50px" alt="CSS" />
+
 
 -------
 ### My Activities
@@ -57,7 +54,7 @@ will be deployed by June 15, 2025
 
 ### Support Me
 <div>
-  <p> <a alt="Buy me a coffee" href="https://buymeacoffee.com/bravejudith"> <img width="200px" src="https://github.com/Ukasquared/Ukasquared/blob/main/bmc-button.png" /></a </p>
+  <p> <a alt="Buy me a coffee" href="https://buymeacoffee.com/bravejudith"> <img width="150px" src="https://github.com/Ukasquared/Ukasquared/blob/main/bmc-button.png" /></a </p>
 </div>
 
 
