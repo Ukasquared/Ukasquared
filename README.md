@@ -6,7 +6,7 @@
 ------
 <div align="center">
 <blockquote>
-  The Web as I envisaged it%2C we have not seen it yet, <br/> The future is still so much bigger than the past<br />
+  The Web as I envisaged it, we have not seen it yet, <br/> The future is still so much bigger than the past<br />
   Tim Berners-Lee
 </blockquote>
 </div>
@@ -21,9 +21,9 @@
 ------
 
 ### Connect with me:
-[![GitHub](https://img.icons8.com/?size=100&id=12599&format=png&color=000000)](https://github.com/Ukasquared)
-[![LinkedIn](https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000)](https://linkedin.com/in/judith-ukachukwu)
-[![Twitter](https://img.icons8.com/?size=100&id=ClbD5JTFM7FA&format=png&color=000000)](https://twitter.com/judithukachukwu)
+[![GitHub](https://img.icons8.com/?size=100&id=106562&format=png&color=000000)](https://github.com/Ukasquared)
+[![LinkedIn](https://img.icons8.com/?size=100&id=tvG-nQ3s2hZL&format=png&color=000000)](https://linkedin.com/in/judith-ukachukwu)
+[![Twitter](https://img.icons8.com/?size=100&id=01GWmP9aUoPj&format=png&color=000000)](https://twitter.com/judithukachukwu)
 
 --------
 
