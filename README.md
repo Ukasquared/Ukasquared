@@ -22,7 +22,7 @@
 
 ### Connect with me:
 <a href="https://linkedin.com/in/judith-ukachukwu"><img src="https://img.icons8.com/?size=100&id=tvG-nQ3s2hZL&format=png&color=000000" alt="LinkedIn" width="50px" /></a>
-<a href="https://twitter.com/judithukachukwu"><img src="https://img.icons8.com/?size=100&id=bG29Ckcdp6YP&format=png&color=000000" alt="Twitter" width="70px" /></a>
+<a href="https://twitter.com/judithukachukwu"><img src="https://img.icons8.com/?size=100&id=bG29Ckcdp6YP&format=png&color=000000" alt="Twitter" width="50px" /></a>
 
 --------
 
@@ -32,18 +32,18 @@ will be deployed by June 15, 2025
 ------
 
 ### Languages and tools:
-<img src="https://img.icons8.com/?size=100&id=Rc0Xn5AtE8kX&format=png&color=000000" width="50px" alt="Python" />
-<img src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" width="50px" alt="Nodejs" />
-<img src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000" width="50px" alt="Mysql" />
-<img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000)" width="50px" alt="Javascript" />
-<img src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" width="50px" alt="Postgresql" />
-<img src="https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png&color=000000" width="50px" alt="Mongodb" />
-<img src="https://img.icons8.com/?size=100&id=hCWb1IvpcBZ0&format=png&color=000000" width="50px" alt="Flask" />
-<img src="https://img.icons8.com/?size=100&id=9ESZMOeUioJS&format=png&color=000000" width="50px" alt="Nestjs" />
-<img src="https://img.icons8.com/?size=100&id=NfbyHexzVEDk&format=png&color=000000" width="50px" alt="React" />
-<img src="https://img.icons8.com/?size=100&id=UpSCHTwpywad&format=png&color=000000" width="50px" alt="Tailwind CSS" />
-<img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" width="50px" alt="HTML" />
-<img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" width="50px" alt="CSS" />
+<span><img src="https://img.icons8.com/?size=100&id=Rc0Xn5AtE8kX&format=png&color=000000" width="50px" alt="Python" /></span>
+<span><img src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" width="50px" alt="Nodejs" /></span>
+<span><img src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000" width="50px" alt="Mysql" /></span>
+<span><img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000)" width="50px" alt="Javascript" /></span>
+<span><img src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" width="50px" alt="Postgresql" /></span>
+<span><img src="https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png&color=000000" width="50px" alt="Mongodb" /></span>
+<span><img src="https://img.icons8.com/?size=100&id=hCWb1IvpcBZ0&format=png&color=000000" width="50px" alt="Flask" /></span>
+<span><img src="https://img.icons8.com/?size=100&id=9ESZMOeUioJS&format=png&color=000000" width="50px" alt="Nestjs" /></span>
+<span><img src="https://img.icons8.com/?size=100&id=NfbyHexzVEDk&format=png&color=000000" width="50px" alt="React" /></span>
+<span><img src="https://img.icons8.com/?size=100&id=UpSCHTwpywad&format=png&color=000000" width="50px" alt="Tailwind CSS" /></span>
+<span><img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" width="50px" alt="HTML" /></span>
+<span><img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" width="50px" alt="CSS" /></span>
 
 
 -------
