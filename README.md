@@ -21,8 +21,8 @@
 ------
 
 ### Connect with me:
-<a href="https://linkedin.com/in/judith-ukachukwu"><img src="https://img.icons8.com/?size=100&id=tvG-nQ3s2hZL&format=png&color=000000" alt="LinkedIn" width="200px" /></a>
-<a href="https://twitter.com/judithukachukwu"><img src="https://img.icons8.com/?size=100&id=bG29Ckcdp6YP&format=png&color=000000" alt="Twitter" width="200px" /></a>
+<a href="https://linkedin.com/in/judith-ukachukwu"><img src="https://img.icons8.com/?size=100&id=tvG-nQ3s2hZL&format=png&color=000000" alt="LinkedIn" width="100px" /></a>
+<a href="https://twitter.com/judithukachukwu"><img src="https://img.icons8.com/?size=100&id=bG29Ckcdp6YP&format=png&color=000000" alt="Twitter" width="100px" /></a>
 
 --------
 
