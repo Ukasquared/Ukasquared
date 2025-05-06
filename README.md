@@ -21,9 +21,8 @@
 ------
 
 ### Connect with me:
-[![GitHub](https://img.icons8.com/?size=100&id=106562&format=png&color=000000)](https://github.com/Ukasquared)
-[![LinkedIn](https://img.icons8.com/?size=100&id=tvG-nQ3s2hZL&format=png&color=000000)](https://linkedin.com/in/judith-ukachukwu)
-[![Twitter](https://img.icons8.com/?size=100&id=01GWmP9aUoPj&format=png&color=000000)](https://twitter.com/judithukachukwu)
+<a href="https://linkedin.com/in/judith-ukachukwu"><img src="https://img.icons8.com/?size=100&id=tvG-nQ3s2hZL&format=png&color=000000" alt="LinkedIn" width="200px" /></a>
+<a href="https://twitter.com/judithukachukwu"><img src="https://img.icons8.com/?size=100&id=bG29Ckcdp6YP&format=png&color=000000" alt="Twitter" width="200px" /></a>
 
 --------
 
@@ -33,6 +32,7 @@ will be deployed by June 15, 2025
 ------
 
 ### Languages and tools:
+<a href=""><img src="" width="200px" att="" /></a>
 ![Python](https://img.icons8.com/?size=100&id=Rc0Xn5AtE8kX&format=png&color=000000)
 ![Nodejs](https://img.icons8.com/?size=100&id=54087&format=png&color=000000)
 ![MySql](https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000)
@@ -45,6 +45,9 @@ will be deployed by June 15, 2025
 ![tailwind css](https://img.icons8.com/?size=100&id=UpSCHTwpywad&format=png&color=000000)
 ![HTML](https://img.icons8.com/?size=100&id=20909&format=png&color=000000)
 ![CSS](https://img.icons8.com/?size=100&id=21278&format=png&color=000000)
+<img src="" width="200px" />
+<img src="" width="200px" />
+<img src="" width="200px" />
 
 -------
 ### My Activities
